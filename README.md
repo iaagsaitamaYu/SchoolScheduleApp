@@ -2,6 +2,7 @@
 <h2>メイン画面</h2>
 <p>アプリを起動後最初の画面。何も記入されていない時間割が表示されている状態。入力したい曜日・時間のセルをタップして次の画面へ</p>
 ![メイン画面](https://github.com/iaagsaitamaYu/SchoolScheduleApp/assets/139106523/64e28dec-05f0-4f4d-aa85-7a88ef578b09)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-09-18 at 23 53 37](https://github.com/iaagsaitamaYu/SchoolScheduleApp/assets/139106523/f5b84c54-1c86-4232-b082-e0e15329b27b)
 
 
 <h2>入力画面</h2>
