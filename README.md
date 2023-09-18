@@ -14,3 +14,5 @@
 <h2>再起動後メイン画面</h2>
 <p>再びアプリを開くときちんと前回入力した内容が失われずに残っている。<span color="red">(当たり前の機能ではあるがせっかくなので一応。。。)</span></p>
 ![再起動後のメイン画面](https://github.com/iaagsaitamaYu/SchoolScheduleApp/assets/139106523/add73e46-68f7-47a3-b424-9bab2aadc02b)
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-09-18 at 23 58 33](https://github.com/iaagsaitamaYu/SchoolScheduleApp/assets/139106523/eaf257cb-86a6-4bf5-8c73-63b86d59083e)
